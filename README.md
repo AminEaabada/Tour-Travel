@@ -10,10 +10,10 @@ This is a web application that allows users to browse and book tours and travel 
 # Installation
  To install and run the application, follow these steps:
 
-1__ Clone the repository from GitHub.
-2__ Install the necessary dependencies using npm install.
-3__ Start the application using npm start.
-4__ Access the application at http://localhost:3000.
+* 1__ Clone the repository from GitHub.
+* 2__ Install the necessary dependencies using npm install.
+* 3__ Start the application using npm start.
+* 4__ Access the application at http://localhost:3000.
 
 
 # Features
