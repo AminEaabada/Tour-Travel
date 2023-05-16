@@ -1,0 +1,240 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "title": "Place 1",
+      "description": "Description for Place 1",
+      "image": "/images/-travel-.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Place 2",
+      "description": "Description for Place 2 ",
+      "image": "/images/Diamond.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Greece",
+      "description": "Greece is a country located in southeastern Europe, on the southern end of the Balkan Peninsula. It is surrounded by the Aegean Sea to the east and south, the Ionian Sea to the west, and the Mediterranean Sea to the south. Greece is known for its rich history and mythology, as well as its beautiful beaches, scenic islands, and ancient ruins. It is also famous for being the birthplace of democracy, Western philosophy, and the Olympic Games. Today, Greece is a popular tourist destination, offering a unique blend of ancient and modern culture, stunning landscapes, and delicious cuisine.",
+      "image" : "/images/g-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Place 4",
+      "description": "Description for Place 4",
+      "image": "/images/g-4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Place 5",
+      "description": "Description for Place 5",
+      "image": "/images/g-5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Place 6",
+      "description": "Description for Place 6",
+      "image": "/images/g-6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Place 7",
+      "description": "Description for Place 7",
+      "image": "/images/g-7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Place 8",
+      "description": "Description for Place 8",
+      "image": "/images/g-8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Place 9",
+      "description": "Description for Place 9",
+      "image": "/images/g-9.jpg"
+    }
+  ],
+  "Reservations": [
+    {
+      "Place_name": "Maldiv",
+      "N_adults": "2",
+      "N_children": "1",
+      "Date_arivals": "2023-05-11",
+      "Date_leaving": "2023-05-17",
+      "id": 1
+    },
+    {
+      "Place_name": "Paris",
+      "N_adults": "3",
+      "N_children": "2",
+      "Date_arivals": "2023-05-13",
+      "Date_leaving": "2023-05-15",
+      "id": 2
+    },
+    {
+      "Place_name": "USA",
+      "N_adults": "2",
+      "N_children": "2",
+      "Date_arivals": "2023-05-12",
+      "Date_leaving": "2023-05-25",
+      "id": 3
+    },
+    {
+      "Place_name": "MAROC",
+      "N_adults": "4",
+      "N_children": "1",
+      "Date_arivals": "2023-05-11",
+      "Date_leaving": "2023-05-15",
+      "id": 7
+    },
+    {
+      "Place_name": "UK",
+      "N_adults": "5",
+      "N_children": "0",
+      "Date_arivals": "2023-05-14",
+      "Date_leaving": "2023-05-21",
+      "id": 9
+    },
+    {
+      "Place_name": "LONDON",
+      "N_adults": "3",
+      "N_children": "2",
+      "Date_arivals": "2023-05-15",
+      "Date_leaving": "2023-05-25",
+      "id": 10
+    },
+    {
+      "Place_name": "TOKYO",
+      "N_adults": "3",
+      "N_children": "2",
+      "Date_arivals": "2023-05-15",
+      "Date_leaving": "2023-05-25",
+      "id": 11
+    },
+    {
+      "Place_name": "TOKYO",
+      "N_adults": "3",
+      "N_children": "2",
+      "Date_arivals": "2023-05-15",
+      "Date_leaving": "2023-05-25",
+      "id": 12
+    },
+    {
+      "Place_name": "TOKYO",
+      "N_adults": "3",
+      "N_children": "2",
+      "Date_arivals": "2023-05-15",
+      "Date_leaving": "2023-05-25",
+      "id": 13
+    },
+    {
+      "Place_name": "TOKYO",
+      "N_adults": "3",
+      "N_children": "2",
+      "Date_arivals": "2023-05-15",
+      "Date_leaving": "2023-05-25",
+      "id": 14
+    }
+  ],
+  "Reviews": [
+    {
+      "image": "images/pic1.png",
+      "Full_name": "Mia Patel",
+      "review": "I had an amazing experience with this tour company! The guides were knowledgeable and friendly,and the itinerary was well-planned. I would definitely recommend this company to anyone looking for a great travel experience.",
+      "starts": "fas fa-star"
+    },
+    {
+      "image": "images/pic2.png",
+      "Full_name": "William Chen",
+      "review": "This tour exceeded my expectations in every way.  The guides were knowledgeable and passionate about the places we visited,  and the itinerary was well-balanced. I learned so much and had a great time. Highly recommend!",
+      "starts": "fas fa-star"
+    },
+    {
+      "image": "images/pic3.png",
+      "Full_name": "Isabella Rodriguez",
+      "review": "I had a fantastic time on this tour. The accommodations were comfortable, the food was delicious, and the activities were so much fun. I would definitely book another tour with this company. Thanks to the guides, Michael and Jessica, for making it such a great experience",
+      "starts": "fas fa-star"
+    },
+    {
+      "image": "images/pic4.png",
+      "Full_name": "David Smith",
+      "review": "I was blown away by the beauty of the places we visited on this tour.The scenery was breathtaking, and the activities were so much fun. I can't wait to book another tour with this company! Thanks to the guides, David and Emily, for making it such a memorable trip.",
+      "starts": "fas fa-star"
+    }
+  ],
+  "Destinations": [
+    {
+      "image": "images/p-1.jpg",
+      "name": "Mumbai",
+      "description": "Experience the vibrant energy and colorful culture of India's largest city.From the bustling markets of Colaba to the historic Gateway of India, Mumbai is a feast for the senses",
+      "newPrice": "$148",
+      "oldPrice": "$200"
+    },
+    {
+      "image": "images/hawaii.png",
+      "name": "Hawaii",
+      "description": "Escape To Paradise And Soak Up The Sun On Some Of The World's Most Beautiful Beaches. With Its Lush Landscapes, Crystal-Clear Waters, And Laid-Back Vibe, Hawaii Is The Ultimate Tropical Getaway.",
+      "newPrice": "$350",
+      "oldPrice": "$400"
+    },
+    {
+      "image": "images/p-3.jpg",
+      "name": "Sydney",
+      "description": "Discover The Stunning Natural Beauty And Cosmopolitan Charm Of Australia's Largest City. From The Iconic Opera House To The Golden Sands Of Bondi Beach, Sydney Is A Must-Visit Destination.",
+      "newPrice": "$230",
+      "oldPrice": "$290"
+    },
+    {
+      "image": "images/p-4.jpg",
+      "name": "Paris",
+      "description": "Fall In Love With The City Of Light, Where Romance And Beauty Abound. Admire The Iconic Eiffel Tower, Stroll Along The Seine River, And Indulge In Delicious French Cuisine.",
+      "newPrice": "$467",
+      "oldPrice": "$500"
+    },
+    {
+      "image": "images/p-5.jpg",
+      "name": "Tokyo",
+      "description": "Experience The Vibrant Energy Of Japan's Capital City, Where Modern Technology And Ancient Traditions Coexist. From The Bustling Streets Of Shibuya To The Serene Gardens Of Shinjuku Gyoen, Tokyo Has Something For Everyone",
+      "newPrice": "$698",
+      "oldPrice": "$733"
+    },
+    {
+      "image": "images/egypt.jpg",
+      "name": "Egypt",
+      "description": "Explore The Land Of The Pharaohs And Discover Ancient Wonders Like The Pyramids Of Giza And The Sphinx. Immerse Yourself In The Rich History And Culture Of This Fascinating Country.",
+      "newPrice": "$432",
+      "oldPrice": "$450"
+    }
+  ],
+  "Users": [
+    {
+      "username": "",
+      "name": "amine aabada",
+      "pass": "Amine123",
+      "email": "aabadaamine@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "",
+      "name": "Brahmi Zakari",
+      "pass": "Brahim12",
+      "email": "brahmiZA@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "",
+      "name": "Admin",
+      "pass": "Admin12",
+      "email": "Admin@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "",
+      "name": "User2",
+      "pass": "User22",
+      "email": "User2@gmail.com",
+      "id": 4
+    }
+  ]
+}
